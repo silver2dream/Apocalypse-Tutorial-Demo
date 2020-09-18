@@ -1,0 +1,18 @@
+syntax = "proto2";
+
+package proto;
+
+message ChatReq {
+	required string Id = 1;
+	required int32 Type = 2;
+	required string Name = 3;
+	required string Message = 4;
+}
+
+message ChatRes {
+	required string Id = 1;
+	required int32 Type = 2;
+	required string Name = 3;
+	required string Message = 4;
+}
+

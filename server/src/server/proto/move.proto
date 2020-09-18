@@ -1,0 +1,17 @@
+syntax = "proto2";
+
+package proto;
+
+message MoveReq {
+	required string ID = 1;
+	required float X = 2;
+	required float Y = 3;
+	//MapID
+}
+
+message MoveRes {
+	required string ID = 1;
+	required int32 Type = 2;
+	required float X = 3;
+	required float Y = 4;
+}

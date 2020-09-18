@@ -1,0 +1,20 @@
+
+obj014.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/001
+  rotate: false
+  xy: 2, 2
+  size: 115, 124
+  orig: 140, 140
+  offset: 13, 5
+  index: -1
+images/obj014
+  rotate: false
+  xy: 119, 16
+  size: 100, 110
+  orig: 128, 128
+  offset: 2, 16
+  index: -1

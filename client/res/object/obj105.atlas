@@ -1,0 +1,118 @@
+
+obj105.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/000/fog_00000
+  rotate: false
+  xy: 404, 17
+  size: 46, 42
+  orig: 68, 68
+  offset: 12, 16
+  index: -1
+images/000/fog_00001
+  rotate: false
+  xy: 404, 61
+  size: 46, 46
+  orig: 68, 68
+  offset: 12, 12
+  index: -1
+images/000/fog_00002
+  rotate: false
+  xy: 108, 8
+  size: 48, 48
+  orig: 68, 68
+  offset: 10, 10
+  index: -1
+images/000/fog_00003
+  rotate: false
+  xy: 158, 59
+  size: 48, 48
+  orig: 68, 68
+  offset: 10, 10
+  index: -1
+images/000/fog_00004
+  rotate: false
+  xy: 158, 9
+  size: 48, 48
+  orig: 68, 68
+  offset: 10, 10
+  index: -1
+images/000/fog_00005
+  rotate: false
+  xy: 258, 10
+  size: 47, 47
+  orig: 68, 68
+  offset: 10, 10
+  index: -1
+images/000/fog_00006
+  rotate: false
+  xy: 208, 59
+  size: 48, 48
+  orig: 68, 68
+  offset: 9, 9
+  index: -1
+images/000/fog_00007
+  rotate: false
+  xy: 308, 59
+  size: 46, 48
+  orig: 68, 68
+  offset: 9, 9
+  index: -1
+images/000/fog_00008
+  rotate: false
+  xy: 356, 59
+  size: 46, 48
+  orig: 68, 68
+  offset: 9, 9
+  index: -1
+images/000/fog_00009
+  rotate: true
+  xy: 307, 11
+  size: 46, 48
+  orig: 68, 68
+  offset: 9, 9
+  index: -1
+images/000/fog_00010
+  rotate: false
+  xy: 108, 58
+  size: 48, 49
+  orig: 68, 68
+  offset: 9, 9
+  index: -1
+images/000/fog_00011
+  rotate: false
+  xy: 208, 9
+  size: 48, 48
+  orig: 68, 68
+  offset: 9, 9
+  index: -1
+images/000/fog_00012
+  rotate: false
+  xy: 258, 59
+  size: 48, 48
+  orig: 68, 68
+  offset: 9, 9
+  index: -1
+images/000/fog_00013
+  rotate: false
+  xy: 452, 62
+  size: 47, 45
+  orig: 68, 68
+  offset: 11, 11
+  index: -1
+images/000/fog_00014
+  rotate: true
+  xy: 357, 11
+  size: 46, 44
+  orig: 68, 68
+  offset: 12, 13
+  index: -1
+images/obj105
+  rotate: false
+  xy: 2, 2
+  size: 104, 105
+  orig: 106, 106
+  offset: 0, 1
+  index: -1

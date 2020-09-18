@@ -1,0 +1,27 @@
+syntax = "proto2";
+
+package proto;
+
+message LoginReq {
+	required string Account = 1;
+	required string Password = 2;
+	required string Name = 3;
+}
+
+message LoginRes {
+	required player Player = 2;
+	repeated player OtherPlayers = 3;
+}
+
+message player {
+	required string TokenID = 1;
+	required string Name = 2;
+	required float X = 3;
+	required float Y = 4;
+	repeated mission Missions = 5;
+}
+
+message mission {
+	required int32 Id = 1;
+	required int32 Status = 2;
+}

@@ -1,0 +1,125 @@
+
+obj201.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/001/001_00001
+  rotate: false
+  xy: 321, 108
+  size: 154, 69
+  orig: 165, 82
+  offset: 4, 10
+  index: -1
+images/001/001_00003
+  rotate: false
+  xy: 484, 178
+  size: 155, 70
+  orig: 165, 82
+  offset: 3, 8
+  index: -1
+images/001/001_00005
+  rotate: false
+  xy: 2, 36
+  size: 156, 70
+  orig: 165, 82
+  offset: 2, 7
+  index: -1
+images/001/001_00007
+  rotate: false
+  xy: 641, 177
+  size: 155, 71
+  orig: 165, 82
+  offset: 2, 5
+  index: -1
+images/001/001_00009
+  rotate: false
+  xy: 798, 178
+  size: 155, 70
+  orig: 165, 82
+  offset: 1, 5
+  index: -1
+images/001/001_00011
+  rotate: false
+  xy: 315, 36
+  size: 147, 70
+  orig: 165, 82
+  offset: 5, 6
+  index: -1
+images/001/001_00013
+  rotate: false
+  xy: 163, 38
+  size: 150, 69
+  orig: 165, 82
+  offset: 6, 7
+  index: -1
+images/001/001_00015
+  rotate: false
+  xy: 477, 107
+  size: 153, 69
+  orig: 165, 82
+  offset: 5, 7
+  index: -1
+images/001/001_00017
+  rotate: false
+  xy: 164, 109
+  size: 155, 69
+  orig: 165, 82
+  offset: 4, 7
+  index: -1
+images/001/001_00019
+  rotate: false
+  xy: 325, 179
+  size: 157, 69
+  orig: 165, 82
+  offset: 3, 8
+  index: -1
+images/001/001_00021
+  rotate: false
+  xy: 2, 108
+  size: 159, 69
+  orig: 165, 82
+  offset: 2, 8
+  index: -1
+images/001/001_00023
+  rotate: false
+  xy: 164, 180
+  size: 159, 68
+  orig: 165, 82
+  offset: 3, 10
+  index: -1
+images/001/001_00025
+  rotate: false
+  xy: 2, 179
+  size: 160, 69
+  orig: 165, 82
+  offset: 2, 9
+  index: -1
+images/001/001_00027
+  rotate: false
+  xy: 632, 105
+  size: 152, 70
+  orig: 165, 82
+  offset: 8, 9
+  index: -1
+images/001/001_00029
+  rotate: false
+  xy: 798, 107
+  size: 151, 69
+  orig: 165, 82
+  offset: 6, 10
+  index: -1
+images/layer1
+  rotate: true
+  xy: 2, 2
+  size: 32, 77
+  orig: 34, 79
+  offset: 1, 1
+  index: -1
+images/layer1_01
+  rotate: true
+  xy: 464, 54
+  size: 51, 92
+  orig: 60, 100
+  offset: 4, 4
+  index: -1

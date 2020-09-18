@@ -1,0 +1,13 @@
+
+obj001.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/obj001/obj001
+  rotate: false
+  xy: 2, 2
+  size: 102, 104
+  orig: 102, 104
+  offset: 0, 0
+  index: -1

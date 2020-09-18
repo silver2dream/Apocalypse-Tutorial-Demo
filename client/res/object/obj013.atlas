@@ -1,0 +1,111 @@
+
+obj013.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/door_00000
+  rotate: false
+  xy: 2, 383
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+images/effect/door_00001
+  rotate: false
+  xy: 2, 256
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+images/effect/door_00002
+  rotate: false
+  xy: 129, 383
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+images/effect/door_00003
+  rotate: false
+  xy: 2, 129
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+images/effect/door_00004
+  rotate: false
+  xy: 129, 256
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+images/effect/door_00005
+  rotate: false
+  xy: 256, 383
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+images/effect/door_00006
+  rotate: false
+  xy: 2, 2
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+images/effect/door_00007
+  rotate: false
+  xy: 129, 129
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+images/effect/door_00008
+  rotate: false
+  xy: 256, 256
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+images/effect/door_00009
+  rotate: false
+  xy: 383, 383
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+images/effect/door_00010
+  rotate: false
+  xy: 129, 2
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+images/effect/door_00011
+  rotate: false
+  xy: 256, 129
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+images/effect/door_00012
+  rotate: false
+  xy: 383, 256
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+images/effect/door_00013
+  rotate: false
+  xy: 256, 2
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+images/effect/door_00014
+  rotate: false
+  xy: 383, 129
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1

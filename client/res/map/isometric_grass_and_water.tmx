@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.4" tiledversion="1.4.1" orientation="isometric" renderorder="right-down" width="25" height="25" tilewidth="64" tileheight="32" infinite="0" nextlayerid="5" nextobjectid="61">
+ <tileset firstgid="1" name="isometric_grass_and_water" tilewidth="64" tileheight="64" tilecount="24" columns="4">
+  <tileoffset x="0" y="16"/>
+  <grid orientation="isometric" width="64" height="32"/>
+  <image source="isometric_grass_and_water.png" width="256" height="384"/>
+  <terraintypes>
+   <terrain name="Grass" tile="0"/>
+   <terrain name="Water" tile="22"/>
+  </terraintypes>
+  <tile id="0" terrain="0,0,0,0"/>
+  <tile id="1" terrain="0,0,0,0"/>
+  <tile id="2" terrain="0,0,0,0"/>
+  <tile id="3" terrain="0,0,0,0"/>
+  <tile id="4" terrain="0,0,0,1"/>
+  <tile id="5" terrain="0,0,1,0"/>
+  <tile id="6" terrain="1,0,0,0"/>
+  <tile id="7" terrain="0,1,0,0"/>
+  <tile id="8" terrain="0,1,1,1"/>
+  <tile id="9" terrain="1,0,1,1"/>
+  <tile id="10" terrain="1,1,1,0"/>
+  <tile id="11" terrain="1,1,0,1"/>
+  <tile id="12" terrain="0,0,1,1"/>
+  <tile id="13" terrain="1,0,1,0"/>
+  <tile id="14" terrain="1,1,0,0"/>
+  <tile id="15" terrain="0,1,0,1"/>
+  <tile id="16" terrain="0,0,1,1"/>
+  <tile id="17" terrain="1,0,1,0"/>
+  <tile id="18" terrain="1,1,0,0"/>
+  <tile id="19" terrain="0,1,0,1"/>
+  <tile id="20" terrain="0,1,1,0"/>
+  <tile id="21" terrain="1,0,0,1"/>
+  <tile id="22" terrain="1,1,1,1"/>
+  <tile id="23" terrain="1,1,1,1"/>
+  <wangsets>
+   <wangset name="Grass and Water" tile="15">
+    <wangcornercolor name="Grass" color="#8ab022" tile="0" probability="1"/>
+    <wangcornercolor name="Water" color="#378dc2" tile="23" probability="1"/>
+    <wangtile tileid="0" wangid="0x10101010"/>
+    <wangtile tileid="1" wangid="0x10101010"/>
+    <wangtile tileid="2" wangid="0x10101010"/>
+    <wangtile tileid="3" wangid="0x10101010"/>
+    <wangtile tileid="4" wangid="0x10102010"/>
+    <wangtile tileid="5" wangid="0x10201010"/>
+    <wangtile tileid="6" wangid="0x20101010"/>
+    <wangtile tileid="7" wangid="0x10101020"/>
+    <wangtile tileid="8" wangid="0x10202020"/>
+    <wangtile tileid="9" wangid="0x20202010"/>
+    <wangtile tileid="10" wangid="0x20201020"/>
+    <wangtile tileid="11" wangid="0x20102020"/>
+    <wangtile tileid="12" wangid="0x10202010"/>
+    <wangtile tileid="13" wangid="0x20201010"/>
+    <wangtile tileid="14" wangid="0x20101020"/>
+    <wangtile tileid="15" wangid="0x10102020"/>
+    <wangtile tileid="16" wangid="0x10202010"/>
+    <wangtile tileid="17" wangid="0x20201010"/>
+    <wangtile tileid="18" wangid="0x20101020"/>
+    <wangtile tileid="19" wangid="0x10102020"/>
+    <wangtile tileid="20" wangid="0x10201020"/>
+    <wangtile tileid="21" wangid="0x20102010"/>
+    <wangtile tileid="22" wangid="0x20202020"/>
+    <wangtile tileid="23" wangid="0x20202020"/>
+   </wangset>
+  </wangsets>
+ </tileset>
+ <tileset firstgid="25" source="NPC3-removebg-preview.tsx"/>
+ <layer id="1" name="BaseLayer" width="25" height="25">
+  <data encoding="base64" compression="zlib">
+   eJx1lttywjAMROXEBEpbLqEl+f8vrTOjHU4W90FDEltaab2SWSNibbY0+2z2SPvKbyvWj82GtNKs4n3M95prI57lv9kl1zY7JY4wZvMv2Ouxha+1Lfdr2tHWf1CfanCMiv1ek/bPnT16Vy0zvmuN+ZI71iS7dPjl8ylrODS7N5uAMcaeE+bK7+f081yKxVBNvp/Wy1VnPmOP+Bwz9yl/v5t94GyoGz8f8loT44I12pb7M2NLx16H4tOP3G3vD+TFvcqRGpbGz3Y29KOmtVYQ07mihokhm83Hz7MYpjifLK8DuFqAJY7JV68veT63Dt81Xn3I+MQYLI50UmOvhYJYxPGZsnQwqFnVzL5mLYolf+5TjZyP1LzyvMU7h9QPcahnaetq9fgMGxJjAbbyp36E84j9HOcsvkZf7+LJOeQcdN3Jb8Ie6l95cQb4PcBZwJkwmJ/uFOdXGvqN1522gkOvw3uTGptjrw32Ameyeog6oKZ7Z0/eOQO8F+6Iv9XwjFcvOz9+B/XubGJQ09QZteX9T/44D8il61D16p6usdclz3ywd5831Jxj+UztzW7W3uPH7wbe50PnmbHJVYl3Dfcw//vf47y6/v4Ac9gQ7w==
+  </data>
+ </layer>
+ <layer id="3" name="Obstacle" width="25" height="25">
+  <data encoding="base64" compression="zlib">
+   eJztk0EOwCAIBLH/f3SvDbGwA7TpoZt4UXcHFZeZLXF4HZcR6S7nDUa2RhR5J/IzhudUeaqvw4k8pMe+zMg43V5QOdUcNb/DyP57xKDvSxnZ+SL/FGOXRRjknZS7VmpQRWsiDHV/p6cJY+dRNHEO+j9JLU8y/Nyvmk7qmADi
+  </data>
+ </layer>
+ <objectgroup id="2" name="GameObjects">
+  <properties>
+   <property name="npcX" type="int" value="1237"/>
+   <property name="npcY" type="int" value="268"/>
+  </properties>
+  <object id="1" name="StartPoints" x="375.5" y="588.5">
+   <point/>
+  </object>
+  <object id="60" name="Npc" x="488" y="44">
+   <properties>
+    <property name="drama" value="1000"/>
+    <property name="head" value="2.png"/>
+    <property name="pic" value="map/NPC2.png"/>
+   </properties>
+   <point/>
+  </object>
+ </objectgroup>
+</map>

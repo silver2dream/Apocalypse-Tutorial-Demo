@@ -1,0 +1,13 @@
+syntax = "proto2";
+
+package proto;
+
+message MissionReq {
+	required int32 Id = 1;
+	required string Account = 2;
+}
+
+message MissionRes {
+	required int32 Id = 1;
+	required int32 Status = 2;
+}

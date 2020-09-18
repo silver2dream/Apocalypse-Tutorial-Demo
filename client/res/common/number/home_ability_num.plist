@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>home_ability_num_0.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{45,98},{35,49}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{36,50}</string>
+			</dict>
+			<key>home_ability_num_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{114,0},{21,47}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{22,48}</string>
+			</dict>
+			<key>home_ability_num_10.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{42,194},{40,47}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{40,48}</string>
+			</dict>
+			<key>home_ability_num_11.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,194},{42,48}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{42,48}</string>
+			</dict>
+			<key>home_ability_num_12.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,147},{47,43}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{47,43}</string>
+			</dict>
+			<key>home_ability_num_13.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,98},{49,45}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{49,45}</string>
+			</dict>
+			<key>home_ability_num_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{113,48},{31,48}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{32,48}</string>
+			</dict>
+			<key>home_ability_num_3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{81,49},{32,49}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{32,50}</string>
+			</dict>
+			<key>home_ability_num_4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{43,147},{37,47}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{38,48}</string>
+			</dict>
+			<key>home_ability_num_5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{80,147},{33,48}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{34,48}</string>
+			</dict>
+			<key>home_ability_num_6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{46,49},{35,49}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{36,50}</string>
+			</dict>
+			<key>home_ability_num_7.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{82,0},{32,48}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{32,48}</string>
+			</dict>
+			<key>home_ability_num_8.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{47,0},{35,49}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{36,50}</string>
+			</dict>
+			<key>home_ability_num_9.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{80,98},{35,49}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{36,50}</string>
+			</dict>
+			<key>home_ability_num_14.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,242},{11,13}}</string>
+				<key>offset</key>
+				<string>{-1,-16}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{29,45}</string>
+			</dict>
+			<key>home_ability_num_15.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{47,49}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{47,50}</string>
+			</dict>
+			<key>home_ability_num_16.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,49},{46,49}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{47,50}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>home_ability_num.png</string>
+			<key>realTextureFileName</key>
+			<string>home_ability_num.png</string>
+			<key>size</key>
+			<string>{256,256}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>256</integer>
+			<key>height</key>
+			<integer>256</integer>
+		</dict>
+	</dict>
+</plist>

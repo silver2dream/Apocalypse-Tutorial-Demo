@@ -1,0 +1,55 @@
+
+obj204.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/00
+  rotate: false
+  xy: 125, 84
+  size: 79, 33
+  orig: 81, 35
+  offset: 1, 1
+  index: -1
+images/01
+  rotate: false
+  xy: 2, 2
+  size: 71, 37
+  orig: 73, 39
+  offset: 1, 1
+  index: -1
+images/02
+  rotate: false
+  xy: 125, 53
+  size: 42, 29
+  orig: 44, 31
+  offset: 1, 1
+  index: -1
+images/03
+  rotate: true
+  xy: 169, 56
+  size: 26, 37
+  orig: 28, 39
+  offset: 1, 1
+  index: -1
+images/04
+  rotate: false
+  xy: 206, 87
+  size: 40, 30
+  orig: 42, 32
+  offset: 1, 1
+  index: -1
+images/Main
+  rotate: false
+  xy: 73, 49
+  size: 50, 68
+  orig: 52, 70
+  offset: 1, 1
+  index: -1
+images/Main_01
+  rotate: false
+  xy: 2, 41
+  size: 69, 76
+  orig: 80, 120
+  offset: 4, 18
+  index: -1

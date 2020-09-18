@@ -1,0 +1,16 @@
+db:
+  host: db:3306
+  user: root
+  passwd: 1234
+  db: arpg
+  conn:
+    maxidle: 50
+    maxopen: 120
+redis:
+  addr: redis:6379
+  db: 1
+  passwd: ''
+  poolsize: 100
+  cache:
+    tokenexpired: 7200 # token cache info expired time 2 * 60 * 60
+    userexpired: 300   # user cache info expired time  5 * 60

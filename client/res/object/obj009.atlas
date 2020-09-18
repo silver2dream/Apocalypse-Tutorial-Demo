@@ -1,0 +1,90 @@
+
+obj009.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+base
+  rotate: false
+  xy: 2, 2
+  size: 100, 68
+  orig: 100, 68
+  offset: 0, 0
+  index: -1
+crystal
+  rotate: false
+  xy: 652, 406
+  size: 26, 68
+  orig: 26, 68
+  offset: 0, 0
+  index: -1
+images/effect/001/001_00000
+  rotate: false
+  xy: 2, 274
+  size: 128, 200
+  orig: 128, 200
+  offset: 0, 0
+  index: -1
+images/effect/001/001_00001
+  rotate: false
+  xy: 2, 72
+  size: 128, 200
+  orig: 128, 200
+  offset: 0, 0
+  index: -1
+images/effect/001/001_00002
+  rotate: false
+  xy: 132, 274
+  size: 128, 200
+  orig: 128, 200
+  offset: 0, 0
+  index: -1
+images/effect/001/001_00003
+  rotate: false
+  xy: 132, 72
+  size: 128, 200
+  orig: 128, 200
+  offset: 0, 0
+  index: -1
+images/effect/001/001_00004
+  rotate: false
+  xy: 262, 274
+  size: 128, 200
+  orig: 128, 200
+  offset: 0, 0
+  index: -1
+images/effect/001/001_00005
+  rotate: false
+  xy: 262, 72
+  size: 128, 200
+  orig: 128, 200
+  offset: 0, 0
+  index: -1
+images/effect/001/001_00006
+  rotate: false
+  xy: 392, 274
+  size: 128, 200
+  orig: 128, 200
+  offset: 0, 0
+  index: -1
+images/effect/001/001_00007
+  rotate: false
+  xy: 392, 72
+  size: 128, 200
+  orig: 128, 200
+  offset: 0, 0
+  index: -1
+images/effect/001/001_00008
+  rotate: false
+  xy: 522, 274
+  size: 128, 200
+  orig: 128, 200
+  offset: 0, 0
+  index: -1
+images/effect/001/001_00009
+  rotate: false
+  xy: 522, 72
+  size: 128, 200
+  orig: 128, 200
+  offset: 0, 0
+  index: -1

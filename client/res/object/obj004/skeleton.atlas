@@ -1,0 +1,118 @@
+
+skeleton.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/door/door_00000
+  rotate: false
+  xy: 2, 383
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+images/effect/door/door_00002
+  rotate: false
+  xy: 2, 256
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+images/effect/door/door_00004
+  rotate: false
+  xy: 129, 383
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+images/effect/door/door_00006
+  rotate: false
+  xy: 2, 129
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+images/effect/door/door_00008
+  rotate: false
+  xy: 129, 256
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+images/effect/door/door_00010
+  rotate: false
+  xy: 256, 383
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+images/effect/door/door_00012
+  rotate: false
+  xy: 2, 2
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+images/effect/door/door_00014
+  rotate: false
+  xy: 129, 129
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+images/effect/door/door_00016
+  rotate: false
+  xy: 256, 256
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+images/effect/door/door_00018
+  rotate: false
+  xy: 383, 383
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+images/effect/door/door_00020
+  rotate: false
+  xy: 129, 2
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+images/effect/door/door_00022
+  rotate: false
+  xy: 256, 129
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+images/effect/door/door_00024
+  rotate: false
+  xy: 383, 256
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+images/effect/door/door_00026
+  rotate: false
+  xy: 256, 2
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+images/effect/door/door_00028
+  rotate: false
+  xy: 383, 129
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+images/obj004
+  rotate: false
+  xy: 383, 77
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
